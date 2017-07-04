@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AAC7651519BA1AEF70152EDE44C658A3961A21EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AAC7651519BA1AEF70152EDE44C658A3961A21EF" : 9223372036854775807,
+    "958D1854CC49085A3AF93C1B08FFD0E258439082" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82C23D4C-7C93-48EF-B71D-DAE44DB9F75F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AAC7651519BA1AEF70152EDE44C658A3961A21EF" : "Message\/",
+    "958D1854CC49085A3AF93C1B08FFD0E258439082" : "SleepMonitor\/YaoYao\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Message",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Message.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/simplismvip\/YaoYao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "958D1854CC49085A3AF93C1B08FFD0E258439082"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:simplismvip\/Message.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAC7651519BA1AEF70152EDE44C658A3961A21EF"
+    }
+  ]
+}
